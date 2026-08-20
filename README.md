@@ -42,6 +42,6 @@ The repository will be continuously updated as new activities and projects are d
 
 ## 🚧 Status
 
-🟢 **In Progress**
+🟢 **Completed**
 
 New activities and projects will be added throughout the course.
