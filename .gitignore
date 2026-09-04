@@ -1,0 +1,15 @@
+# Object files
+*.o
+*.elf
+
+# Executables
+*.exea
+*.out
+
+# .vscode folder
+.vscode/
+
+# Output folder
+output/
+
+*.x
