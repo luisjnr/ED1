@@ -1,47 +1,39 @@
-# 🌳 Data Structures I
+# Estrutura de Dados I
 
-Repository dedicated to my studies and practical activities in **Data Structures I**.
+Repositório destinado às atividades, exercícios e materiais desenvolvidos durante a disciplina de **Estrutura de Dados I**.
 
-This repository contains exercises, assignments, and projects developed throughout the course, covering fundamental data structures and algorithms.
+## Conteúdo
 
-## 📚 Topics
+### Introductory exercises
 
-* Arrays
-* Linked Lists
-* Stacks
-* Queues
-* Searching Algorithms
-* Sorting Algorithms
-* Pointers
-* Dynamic Memory Allocation
-* Basic Algorithms
-* And other data structure concepts
+Exercícios introdutórios para praticar os fundamentos da linguagem C e conceitos básicos utilizados ao longo da disciplina.
 
-## 🛠️ Technologies
+### Structs
 
-* C
-* Git
-* GitHub
+Exercícios e implementações utilizando `struct` em C, explorando a criação e manipulação de estruturas de dados.
 
-## 📂 Repository Structure
+### Exams
 
-The repository will be organized into different activities and projects developed throughout the course.
+Arquivos e exercícios relacionados às provas realizadas durante a disciplina.
+
+## Tecnologias
+
+* **C**
+* **Git**
+* **GitHub**
+
+## Organização
 
 ```text
-📦 data-structures-1
- ┣ 📂 activities
- ┣ 📂 projects
- ┗ 📜 README.md
+ED1/
+├── Introductory exercises/
+├── Structs/
+└── Exams/
 ```
 
-## 🎯 Purpose
+## Sobre
 
-The main goal of this repository is to **develop a strong foundation in data structures and algorithms through practical programming exercises**.
+Repositório acadêmico desenvolvido durante a graduação em **Sistemas de Informação**.
 
-The repository will be continuously updated as new activities and projects are developed.
-
-## 🚧 Status
-
-🟢 **Completed**
-
-New activities and projects will be added throughout the course.
+**Disciplina:** Estrutura de Dados I
+**Linguagem:** C
